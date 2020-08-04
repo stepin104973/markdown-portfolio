@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Music
+   1. Jazz
+   2. Indie
+2. Web development
+- Sound Design
+  - Serum
